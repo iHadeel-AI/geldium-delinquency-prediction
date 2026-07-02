@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Geldium, a digital lending and consumer credit provider, experienced an increase in credit card delinquency rates. This project applies **AI-powered data analysis** to:
 
@@ -16,7 +16,7 @@ Geldium, a digital lending and consumer credit provider, experienced an increase
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 geldium-delinquency-prediction/
@@ -33,7 +33,7 @@ geldium-delinquency-prediction/
 
 ---
 
-## 🔍 Key Findings
+##Key Findings
 
 | Finding | Detail |
 |---------|--------|
@@ -45,7 +45,7 @@ geldium-delinquency-prediction/
 
 ---
 
-## 🤖 Model Approach
+## Model Approach
 
 - **Algorithm:** Random Forest Classifier
 - **Why:** Balances accuracy + interpretability — critical for financial compliance
@@ -59,7 +59,7 @@ geldium-delinquency-prediction/
 
 ---
 
-## ⚖️ Responsible AI
+## Responsible AI
 
 - Disparate Impact Analysis across Age, Location, Employment segments
 - Human review required for all high-risk decisions
@@ -75,13 +75,8 @@ geldium-delinquency-prediction/
 
 ---
 
-## 📊 EDA Dashboard Preview
 
-![EDA Dashboard](geldium_eda_dashboard.png)
-
----
-
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repo
