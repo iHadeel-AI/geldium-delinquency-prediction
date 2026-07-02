@@ -1,4 +1,4 @@
-# 🏦 Geldium Delinquency Risk Prediction — AI Consulting Project
+# 🏦 Geldium Delinquency Risk Prediction AI Consulting Project
 
 > **Tata iQ x Geldium** | AI Transformation Consultant: Hadeel
 > Forage Job Simulation — Tata iQ GenAI Powered Data Analytics
